@@ -52,7 +52,7 @@ As far as we we this plugin does not conflict with any other.<br>The plugin usag
 If you have any problem or conflict try to disable the plugin and see if the problem still consist.<br>Share your potential conflicts in the support tab, if you have found them.<br>
 
 
-= Where get I get more information about the Delete Multiple Themes? = 
+= Where get I get more information about the Shortcodes AnyWhere? = 
 You can found more information at: <a href="http://happyplugins.com/shortcodes-anywhere">HappyPlugin - Shortcodes AnyWhere</a>
 
 
