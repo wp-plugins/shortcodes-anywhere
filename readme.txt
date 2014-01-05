@@ -37,7 +37,7 @@ This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>
 == Screenshots ==
 
 No screenshot available, you can find more information at:
-http://happyplugins.com/shortcodes-anywhere
+http://blog.happyplugins.com/shortcodes-anywhere
 
 
 
@@ -53,7 +53,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the Shortcodes AnyWhere? = 
-You can found more information at: <a href="http://happyplugins.com/shortcodes-anywhere">HappyPlugin - Shortcodes AnyWhere</a>
+You can found more information at: <a href="http://blog.happyplugins.com/shortcodes-anywhere">HappyPlugin - Shortcodes AnyWhere</a>
 
 
 == Changelog ==
