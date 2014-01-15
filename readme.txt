@@ -1,7 +1,7 @@
 === Shortcodes AnyWhere ===
 Contributors: happyplugins
 Tags: shortcodes, shortcodes in widget, shortcode widget, shortcode in comment
-Donate link: http://happyplugins.com
+Donate link: http://happyplugins.com/downloads/shortcodes-anywhere/
 Requires at least: 3.0.1
 Tested up to: 3.7.1
 Stable tag: 1.0.0
@@ -37,7 +37,7 @@ This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a>
 == Screenshots ==
 
 No screenshot available, you can find more information at:
-http://blog.happyplugins.com/shortcodes-anywhere
+http://happyplugins.com/downloads/shortcodes-anywhere/
 
 
 
@@ -53,7 +53,7 @@ If you have any problem or conflict try to disable the plugin and see if the pro
 
 
 = Where get I get more information about the Shortcodes AnyWhere? = 
-You can found more information at: <a href="http://blog.happyplugins.com/shortcodes-anywhere">HappyPlugin - Shortcodes AnyWhere</a>
+You can found more information at: <a href="http://happyplugins.com/downloads/shortcodes-anywhere/">HappyPlugin - Shortcodes AnyWhere</a>
 
 
 == Changelog ==
