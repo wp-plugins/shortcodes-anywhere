@@ -3,8 +3,8 @@ Contributors: happyplugins
 Tags: shortcodes, shortcodes in widget, shortcode widget, shortcode in comment
 Donate link: http://happyplugins.com/downloads/shortcodes-anywhere/
 Requires at least: 3.0.1
-Tested up to: 3.7.1
-Stable tag: 1.0.0
+Tested up to: 4.1.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,25 @@ Experts
 Category, Tag, and Taxonomy Descriptions.
 
 
-This Plugins is maintained by <a href="http://happyplugins.com">HappyPlugins</a> your can find more plugins and coding tutorials our our websites.<br>
+<h4>HappyPlugins - eCommerce Plugins for WordPress</h4>
+
+<a href="http://happyplugins.com">HappyPlugins</a> company develop premium WordPress & Guides for eCommerce websites.<br>
+
+Our Plugins includes <a href="http://happyplugins.com/?download_category=wishlist-member" alt="Wishlist Member Dedicated Plugins" title="Wishlist Member Dedicated Plugins">Wishlist Member Dedicated Plugins</a>, <a href="http://happyplugins.com/downloads/category/easy-digital-downloads/" alt="Easy Digital Downloads Dedicated Plugins" title="Easy Digital Downloads Dedicated Plugins">Easy Digital Downloads Dedicated Plugins</a><br>
+
+Currently HappyPlugins company the number one 3rd party plugins developer for the Wishlist Member Membership Platform.
+
+<h4>Further Reading</h4>
+<ul>
+<li>The <a href="http://happyplugins.com/downloads/shortcodes-anywhere/">Shortcodes AnyWhere</a> official homepage.</li>
+<li>More <a href="http://happyplugins.com">WordPress Plugins</a> by HappyPlugins</li>
+<li>Build a Membership site that Convert with <a href="http://membershipinsiders.com">Membership Isiders</a>.</li>
+<li>Follow HappyPlugins on <a href="https://www.facebook.com/happyplugins">Facebook</a> & <a href="https://twitter.com/HappyPlugins">Twitter</a></li>
+</ul>
+
+<a href="http://discoverwp.co">DiscoverWP - Find & Compare WordPress Plugins</a>
+DiscoverWP was created in thing in mind and that to help every WordPress user to find the right product for his needs.
+
 
 
 
